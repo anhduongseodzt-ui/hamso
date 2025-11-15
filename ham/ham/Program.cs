@@ -10,7 +10,7 @@ namespace ham
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("anh");
+            Console.WriteLine("anh yeu em");
         }
     }
 }
