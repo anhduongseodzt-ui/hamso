@@ -1,0 +1,9 @@
+D:\folderC#\ham_exception\ham\BE.Dataacces\bin\Debug\BE.Dataacces.dll
+D:\folderC#\ham_exception\ham\BE.Dataacces\bin\Debug\BE.Dataacces.pdb
+D:\folderC#\ham_exception\ham\BE.Dataacces\bin\Debug\hamm.comon.dll
+D:\folderC#\ham_exception\ham\BE.Dataacces\bin\Debug\hamm.comon.pdb
+D:\folderC#\ham_exception\ham\BE.Dataacces\obj\Debug\BE.Dataacces.csproj.AssemblyReference.cache
+D:\folderC#\ham_exception\ham\BE.Dataacces\obj\Debug\BE.Dataacces.csproj.CoreCompileInputs.cache
+D:\folderC#\ham_exception\ham\BE.Dataacces\obj\Debug\BE.Dataa.2D75B32A.Up2Date
+D:\folderC#\ham_exception\ham\BE.Dataacces\obj\Debug\BE.Dataacces.dll
+D:\folderC#\ham_exception\ham\BE.Dataacces\obj\Debug\BE.Dataacces.pdb

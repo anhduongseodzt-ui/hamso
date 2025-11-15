@@ -1,0 +1,6 @@
+D:\folderC#\ham_exception\ham\hamm.comon\bin\Debug\hamm.comon.dll
+D:\folderC#\ham_exception\ham\hamm.comon\bin\Debug\hamm.comon.pdb
+D:\folderC#\ham_exception\ham\hamm.comon\obj\Debug\hamm.comon.csproj.AssemblyReference.cache
+D:\folderC#\ham_exception\ham\hamm.comon\obj\Debug\hamm.comon.csproj.CoreCompileInputs.cache
+D:\folderC#\ham_exception\ham\hamm.comon\obj\Debug\hamm.comon.dll
+D:\folderC#\ham_exception\ham\hamm.comon\obj\Debug\hamm.comon.pdb

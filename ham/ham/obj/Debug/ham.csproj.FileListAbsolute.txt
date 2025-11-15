@@ -5,3 +5,8 @@ D:\folderC#\ham_exception\ham\ham\obj\Debug\ham.csproj.AssemblyReference.cache
 D:\folderC#\ham_exception\ham\ham\obj\Debug\ham.csproj.CoreCompileInputs.cache
 D:\folderC#\ham_exception\ham\ham\obj\Debug\ham.exe
 D:\folderC#\ham_exception\ham\ham\obj\Debug\ham.pdb
+D:\folderC#\ham_exception\ham\ham\bin\Debug\BE.Dataacces.dll
+D:\folderC#\ham_exception\ham\ham\bin\Debug\hamm.comon.dll
+D:\folderC#\ham_exception\ham\ham\bin\Debug\BE.Dataacces.pdb
+D:\folderC#\ham_exception\ham\ham\bin\Debug\hamm.comon.pdb
+D:\folderC#\ham_exception\ham\ham\obj\Debug\ham.csproj.Up2Date

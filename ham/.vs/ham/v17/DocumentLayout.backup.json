@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{13C628D5-B8DB-43BB-A01A-5FF5894B9FFA}|ham\\ham.csproj|d:\\folderc#\\ham_exception\\ham\\ham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13C628D5-B8DB-43BB-A01A-5FF5894B9FFA}|ham\\ham.csproj|solutionrelative:ham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF9BAF7-5C65-487F-B8C4-957794C27C98}|BE.Dataacces\\BE.Dataacces.csproj|d:\\folderc#\\ham_exception\\ham\\be.dataacces\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF9BAF7-5C65-487F-B8C4-957794C27C98}|BE.Dataacces\\BE.Dataacces.csproj|solutionrelative:be.dataacces\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E778E2-1465-4DC5-93A3-53019EE89C9F}|hamm.comon\\hamm.comon.csproj|d:\\folderc#\\ham_exception\\ham\\hamm.comon\\checker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E778E2-1465-4DC5-93A3-53019EE89C9F}|hamm.comon\\hamm.comon.csproj|solutionrelative:hamm.comon\\checker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai2.cs",
+              "DocumentMoniker": "D:\\folderC#\\ham_exception\\ham\\BE.Dataacces\\Bai2.cs",
+              "RelativeDocumentMoniker": "BE.Dataacces\\Bai2.cs",
+              "ToolTip": "D:\\folderC#\\ham_exception\\ham\\BE.Dataacces\\Bai2.cs",
+              "RelativeToolTip": "BE.Dataacces\\Bai2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:03:37.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "checker.cs",
+              "DocumentMoniker": "D:\\folderC#\\ham_exception\\ham\\hamm.comon\\checker.cs",
+              "RelativeDocumentMoniker": "hamm.comon\\checker.cs",
+              "ToolTip": "D:\\folderC#\\ham_exception\\ham\\hamm.comon\\checker.cs",
+              "RelativeToolTip": "hamm.comon\\checker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:44:36.831Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,14 +62,10 @@
               "RelativeDocumentMoniker": "ham\\Program.cs",
               "ToolTip": "D:\\folderC#\\ham_exception\\ham\\ham\\Program.cs",
               "RelativeToolTip": "ham\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwDAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T09:44:36.271Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
