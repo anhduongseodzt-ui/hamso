@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Desktop\BTVN BE_2025\09_03 HW\HW_02\HW_02\bin\Debug\HW_02.exe.config
+C:\Users\ADMIN\Desktop\BTVN BE_2025\09_03 HW\HW_02\HW_02\bin\Debug\HW_02.exe
+C:\Users\ADMIN\Desktop\BTVN BE_2025\09_03 HW\HW_02\HW_02\bin\Debug\HW_02.pdb
+C:\Users\ADMIN\Desktop\BTVN BE_2025\09_03 HW\HW_02\HW_02\obj\Debug\HW_02.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\BTVN BE_2025\09_03 HW\HW_02\HW_02\obj\Debug\HW_02.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\BTVN BE_2025\09_03 HW\HW_02\HW_02\obj\Debug\HW_02.exe
+C:\Users\ADMIN\Desktop\BTVN BE_2025\09_03 HW\HW_02\HW_02\obj\Debug\HW_02.pdb
