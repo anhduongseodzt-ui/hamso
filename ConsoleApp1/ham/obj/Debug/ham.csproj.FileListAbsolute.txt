@@ -1,0 +1,6 @@
+D:\folderC#\ConsoleApp1\ham\bin\Debug\ham.dll
+D:\folderC#\ConsoleApp1\ham\bin\Debug\ham.pdb
+D:\folderC#\ConsoleApp1\ham\obj\Debug\ham.csproj.AssemblyReference.cache
+D:\folderC#\ConsoleApp1\ham\obj\Debug\ham.csproj.CoreCompileInputs.cache
+D:\folderC#\ConsoleApp1\ham\obj\Debug\ham.dll
+D:\folderC#\ConsoleApp1\ham\obj\Debug\ham.pdb

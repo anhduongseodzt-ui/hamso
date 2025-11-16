@@ -1,0 +1,12 @@
+D:\folderC#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\folderC#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\folderC#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\folderC#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\folderC#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\folderC#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\folderC#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\folderC#\ConsoleApp1\ConsoleApp1\bin\Debug\ham.dll
+D:\folderC#\ConsoleApp1\ConsoleApp1\bin\Debug\logic.dll
+D:\folderC#\ConsoleApp1\ConsoleApp1\bin\Debug\ham.pdb
+D:\folderC#\ConsoleApp1\ConsoleApp1\bin\Debug\logic.pdb
+D:\folderC#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
